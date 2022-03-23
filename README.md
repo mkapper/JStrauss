@@ -10,6 +10,8 @@ TODO: Write a project description
 
 ![](./resources/OT.gif)
 
+![](./resources/emery.gif)
+
 ![](./resources/argon.gif)
 
 ## Installation
