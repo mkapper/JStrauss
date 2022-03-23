@@ -2,7 +2,7 @@
 
 TODO: Write a project description
 
-![](./resources/RT.gif)
+![](./resources/RT.gif) ![](./resources/backstep.gif)
 
 ![](./resources/backstep.gif)
 
