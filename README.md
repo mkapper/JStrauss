@@ -2,6 +2,8 @@
 
 TODO: Write a project description
 
+![](./resources/RT.gif)
+
 ## Installation
 
 TODO: Describe the installation process
