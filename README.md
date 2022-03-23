@@ -4,6 +4,8 @@ TODO: Write a project description
 
 ![](./resources/RT.gif)
 
+![](./resources/backstep.gif)
+
 ## Installation
 
 TODO: Describe the installation process
