@@ -8,6 +8,8 @@ TODO: Write a project description
 
 ![](./resources/CD.gif)
 
+![](./resources/OT.gif)
+
 ## Installation
 
 TODO: Describe the installation process
